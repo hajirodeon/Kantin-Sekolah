@@ -82,6 +82,13 @@ TAMPILAN HALAMAN WEB KANTIN SEKOLAH :
 
 
 
+---
+
+Silahkan unduh di :
+
+https://gitlab.com/hajirodeon/kantin-sekolah
+
+
 
 
 ---
